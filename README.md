@@ -26,8 +26,6 @@ Estudante de Tecnologia no **Proa**, com a cabeça focada em **Back-End** e **Ha
 
 No momento, estou mergulhado em **Python** e **SQL** e brincando com desenvolvimento Web responsivo (HTML5/CSS3). Tenho também uma paixão meio antiga por Hardware e Engenharia de Computação: adoro entender o que tem por trás da tela, das specs técnicas até a arquitetura dos sistemas.
 
-Não curto ficar só na teoria. Gosto de pegar o que aprendi, colocar a mão na massa e ver se realmente funciona (spoiler: nem sempre funciona de primeira, e tá tudo bem). É assim que o aprendizado gruda de verdade.
-
 ## 🎯 Interesses
 
 `Back-End` `Hardware` `Arquitetura de Computadores` `Engenharia de Computação`
