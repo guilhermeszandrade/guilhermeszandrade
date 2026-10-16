@@ -8,7 +8,7 @@
   <img src="assets/buraco-negro.svg" width="100%" alt="Buraco negro animado" />
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Back-End+%7C+Python+%7C+SQL;Apaixonado+por+Hardware+e+Arquitetura;Colocando+a+m%C3%A3o+na+massa+todo+dia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Back-End+%7C+Python+%7C+SQL;Apaixonado+por+Hardware+e+Arquitetura;" alt="Typing SVG" />
 
 ![Visitas](https://komarev.com/ghpvc/?username=guilhermeszandrade&label=Visitas&color=0e75b6&style=flat)
 
